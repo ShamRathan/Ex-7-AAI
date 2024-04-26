@@ -85,7 +85,7 @@ print(summary)
 ~~~
 
 <H3>Output</H3>
-![image](https://github.com/ShamRathan/Ex-7-AAI/assets/93587823/35a32e98-3a12-4c15-8ee9-55bb95add8e4)
+<img width="1279" alt="image" src="https://github.com/ShamRathan/Ex-7-AAI/assets/93587823/35a32e98-3a12-4c15-8ee9-55bb95add8e4>
 
 
 
